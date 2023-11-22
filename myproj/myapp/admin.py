@@ -4,4 +4,3 @@ from .models import Student,StudentAdmin
 
 # Register your models here.
 admin.site.register(Student,StudentAdmin)
-
